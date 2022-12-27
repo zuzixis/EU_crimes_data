@@ -1,191 +1,184 @@
-﻿criminal_offence_code;code;name;
-T11TC;DTC11A;minor theft and other minor property offences;
-T11TC;DTC11C;minor assault and other minor violent offences;
-T11TC;DTC11E;criminal offences committed by minors;
-T11TC;DTC11G;major traffic offences (see below);
-T11TC;DTC11I;all other criminal offences subject to criminal proceedings;
-T11TC;DTC11K;all other traffic offences;
-T11TC;DTC11M;breaches of public order regulations;
-T11TC;DTC11O;all minor offences subject to proceedings outside the criminal justice system (i.e. misdemeanors, contraventions, wykroczenia, faltas etc.);
-T11TT;DTT11A;negligent homicide and negligent injury in road traffic;
-T11TT;DTT11C;dangerous / reckless driving (i.e.: driving in a way that falls far below what would be expected of a competent and careful driver and is obviously endangering life or health of another person or leads to the danger of serious damage to property);
-T11TT;DTT11E;seriously endangering road traffic in other ways (e.g. removing traffic signs, building obstacles, throwing objects onto the motorway);
-T11TT;DTT11G;driving under the influence of drugs or alcohol (also see below);
-T11TT;DTT11I;driving while impaired for other reasons;
-T11TT;DTT11K;driving while disqualified or licence suspended / revoked;
-T11TT;DTT11M;all other cases of driving without a valid licence;
-T11TT;DTT11O;hit-and-run driving;
-T11TT;DTT11Q;offences committed outside road traffic (e.g. involving trains, airplanes, ships or boats);
-T11TT;DTT11S;driving without an insurance against damage to third parties (motor liability insurance);
-T11TT;DTT11U;driving without paying motor vehicle tax;
-T11TT;DTT11W;driving without or using wrong number plates;
-T11TT;DTT11Y;driving a motor vehicle that is not roadworthy (if not considered dangerous driving);
-T11TT;DTT11AA;speeding (if not considered dangerous driving);
-T11TT;DTT11AC;failing to stop at a red traffic light, disregard of right of way, overtaking incorrectly and wrong-way driving (if not considered dangerous driving);
-T11TT;DTT11AE;parking violations;
-T11TT;DTT11AG;all other traffic offences;
-T11HO;DHO11A;assault leading to death;
-T11HO;DHO11C;Euthanasia;
-T11HO;DHO11E;Infanticide;
-T11HO;DHO11G;Attempts;
-T11HO;DHO11I;assistance with suicide;
-T11HO;DHO11K;Abortion;
-T11HO;DHO11M;negligent killing;
-T11AS;DAS11A;minor bodily injury;
-T11AS;DAS11C;aggravated bodily injury;
-T11AS;DAS11E;bodily injury of a public servant/official;
-T11AS;DAS11G;bodily injury in a domestic dispute;
-T11AS;DAS11I;Attempts;
-T11AS;DAS11K;assault leading to death;
-T11AS;DAS11M;threats;
-T11AS;DAS11O;assault only causing pain (e.g. slapping);
-T11AS;DAS11Q;sexual assault;
-T11AS;DAS11S;negligent bodily injury;
-T11AA;DAA11A;serious and lasting (i.e. disabling) bodily injury;
-T11AA;DAA11C;life-threatening bodily injury;
-T11AA;DAA11E;use of weapons (dangerous objects);
-T11AA;DAA11G;particularly vulnerable victim;
-T11AA;DAA11I;attempts;
-T11AA;DAA11K;assault leading to death;
-T11AA;DAA11M;mere threats;
-T11AA;DAA11O;sexual assault;
-T11AA;DAA11Q;negligent bodily injury;
-T11SA;DSA11A;any sexual acts committed with violence or threat of violence;
-T11SA;DSA11C;any sexual acts committed with abuse of authority or undue pressure;
-T11SA;DSA11E;any sexual acts committed against a helpless person;
-T11SA;DSA11G;any sexual acts committed against a marital partner against her/his will;
-T11SA;DSA11I;acts considered as rape (see below);
-T11SA;DSA11K;acts considered as physical sexual abuse of a child (see below);
-T11SA;DSA11M;Attempts;
-T11SA;DSA11O;any verbal or any other form of non-physical molestation;
-T11SA;DSA11Q;Pornography;
-T11SA;DSA11S;Pimping;
-T11SA;DSA11U;buying / offering paid sex;
-T11SA;DSA11W;Exhibitionism;
-T11RA;DRA11A;penetration other than vaginal (e.g. buggery);
-T11RA;DRA11C;violent intra-marital sexual intercourse;
-T11RA;DRA11E;sexual intercourse without force with a helpless person;
-T11RA;DRA11G;sexual intercourse with force with a child;
-T11RA;DRA11I;Attempts;
-T11RA;DRA11K;sexual intercourse with a child without force;
-T11RA;DRA11OM;other forms of sexual assault;
-T11SM;DSM11A;sexual intercourse or any other form of physical sexual contact committed without violence;
-T11SM;DSM11C;acts committed by persons below the age of consent ;
-T11SM;DSM11E;acts committed by persons above the age of consent ;
-T11SM;DSM11G;Attempts;
-T11SM;DSM11I;verbal or any other form of non-physical molestation;
-T11SM;DSM11K;child pornography;
-T11SM;DSM11M;acts considered as rape;
-T11RO;DRO11A;muggings (bag-snatchings);
-T11RO;DRO11C;theft immediately followed by force or threat of force used to keep hold of the stolen goods;
-T11RO;DRO11E;Attempts;
-T11RO;DRO11G;pick-pocketing;
-T11RO;DRO11I;Extortion;
-T11RO;DRO11K;Blackmailing;
-T11TH;DTH11A;minor (e.g. small value) theft;
-T11TH;DTH11C;burglary;
-T11TH;DTH11E;theft of motor vehicles;
-T11TH;DTH11G;attempts;
-T11TH;DTH11I;embezzlement (including theft by employees);
-T11TH;DTH11K;robbery;
-T11TH;DTH11M;receiving/handling stolen goods;
-T11TV;DTV11A;joyriding;
-T11TV;DTV11C;theft of trucks / lorries;
-T11TV;DTV11E;theft of motorcycles;
-T11TV;DTV11G;theft of motorboats;
-T11TV;DTV11I;attempts;
-T11TV;DTV11K;robbery;
-T11TV;DTV11M;receiving/handling a stolen vehicle;
-T11BU;DBU11A;domestic burglary;
-T11BU;DBU11C;theft from a factory, shop, office, etc.;
-T11BU;DBU11E;theft from a military establishment;
-T11BU;DBU11G;theft by using false keys;
-T11BU;DBU11I;attempts;
-T11BU;DBU11K;theft from a car;
-T11BU;DBU11M;theft from a container;
-T11BU;DBU11O;theft from a vending machine;
-T11BU;DBU11Q;theft from a parking meter;
-T11BU;DBU11S;theft from a fenced meadow/compound;
-T11BD;DBD11A;theft from an attic or basement in a multi-dwelling building;
-T11BD;DBD11C;theft from a secondary residence (even if unoccupied);
-T11BD;DBD11E;attempts;
-T11BD;DBD11G;theft from a factory, shop, office, etc.;
-T11BD;DBD11I;theft from a detached garage, shed, barn or stable;
-T11BD;DBD11K;theft from a fenced meadow/compound;
-T11FR;DFR11A;attempts;
-T11FR;DFR11C;receiving/handling a stolen property;
-T11FR;DFR11E;forgery of documents, passports etc.;
-T11FR;DFR11G;tax and customs offences;
-T11FR;DFR11I;subsidy fraud;
-T11FR;DFR11K;fraud involving welfare payments;
-T11FR;DFR11M;money laundering;
-T11FR;DFR11O;forgery of money/payment instruments;
-T11FR;DFR11Q;consuming goods or services;
-T11FR;DFR11S;breaching of trust / embezzlement;
-T11ML;DML11A;receiving and handling illegally obtained (but not stolen) non-monetary property;
-T11ML;DML11C;attempts;
-T11ML;DML11E;receiving/handling stolen property;
-T11ML;DML11G;violations of the ‘know-your-customer’ rule (i.e. negligence in identification of customer’s identity or origin of funds);
-T11CO;DCO11A;active and passive corruption;
-T11CO;DCO11C;instigation to corruption;
-T11CO;DCO11E;complicity;
-T11CO;DCO11G;corruption of domestic officials;
-T11CO;DCO11I;corruption of foreign officials;
-T11CO;DCO11K;extortion by public officials;
-T11CO;DCO11M;offering officials advantages without immediate interest (i.e.: in order to get them hooked on receiving gifts);
-T11CO;DCO11O;attempts;
-T11CO;DCO11Q;corruption in the private sector;
-T11CO;DCO11S;extortion (except by public officials);
-T11CO;DCO11U;bribery of the electorate;
-T11DR;DDR11A;cultivation;
-T11DR;DDR11C;production and manufacture;
-T11DR;DDR11E;extraction and preparation;
-T11DR;DDR11G;offering and offering for sale;
-T11DR;DDR11I;distribution;
-T11DR;DDR11K;purchase;
-T11DR;DDR11M;sale;
-T11DR;DDR11O;delivery on any terms whatsoever;
-T11DR;DDR11Q;brokerage;
-T11DR;DDR11S;dispatch and dispatch in transit;
-T11DR;DDR11U;transport;
-T11DR;DDR11W;importation;
-T11DR;DDR11Y;exportation;
-T11DR;DDR11AA;financing of drug operations;
-T11DR;DDR11AC;possession not in connection with personal use;
-T11DR;DDR11AE;possession for personal use (i.e.: possession of small quantities);
-T11DR;DDR11AG;consumption;
-T11DR;DDR11AI;attempts;
-T11DR;DDR11AK;offences with respect to precursor substances;
-T11DT;DDT11A;cultivation;
-T11DT;DDT11C;production and manufacture;
-T11DT;DDT11E;extraction and preparation;
-T11DT;DDT1AG;offering and offering for sale;
-T11DT;DDT11I;distribution;
-T11DT;DDT11K;purchase;
-T11DT;DDT11M;sale;
-T11DT;DDT11O;delivery on any terms whatsoever;
-T11DT;DDT11Q;brokerage;
-T11DT;DDT11S;dispatch and dispatch in transit;
-T11DT;DDT11U;transport;
-T11DT;DDT11W;importation;
-T11DT;DDT11Y;exportation;
-T11DT;DDT11AA;financing of drug operations;
-T11DT;DDT11AC;possession;
-T11DT;DDT11AE;attempts;
-T11DT;DDT11AG;offences with respect to precursor substances;
-T11DT;DDT11AI;possession for personal use (i.e.: possession of small quantities);
-T11DT;DDT11AK;consumption;
-THOFA;DFAI11A;firearm shot;
-THOFA;DFAI11C;firearm used as a blunt weapon;
-THOFA;DFAI11E;firearm used as a threat;
-THOFA;DFAI11G;firearm carried;
-THOFA;DFAI11I;firearm ready to hand, even if not carried (e.g.: lying readily available on a table directly at the crime scene);
-THOFA;DFAI11K;offences involving weapons not considered as firearms (see separate definition below);
-THOFA;DFAI11M;offences involving other dangerous object;
-TROFA;DFAI11A;firearm shot;
-TROFA;DFAI11C;firearm used as a blunt weapon;
-TROFA;DFAI11E;firearm used as a threat;
-TROFA;DFAI11G;firearm carried;
-TROFA;DFAI11I;firearm ready to hand, even if not carried (e.g.: lying readily available on a table directly at the crime scene);
-TROFA;DFAI11K;offences involving weapons not considered as firearms (see separate definition below);
-TROFA;DFAI11M;offences involving other dangerous object;
+﻿criminal_offence_code;code;name
+T11TC;DTC11A;minor theft and other minor property offences
+T11TC;DTC11C;minor assault and other minor violent offences
+T11TC;DTC11E;criminal offences committed by minors
+T11TC;DTC11G;major traffic offences (see below)
+T11TC;DTC11I;all other criminal offences subject to criminal proceedings
+T11TC;DTC11K;all other traffic offences
+T11TC;DTC11M;breaches of public order regulations
+T11TC;DTC11O;all minor offences subject to proceedings outside the criminal justice system (i.e. misdemeanors, contraventions, wykroczenia, faltas etc.)
+T11TT;DTT11A;negligent homicide and negligent injury in road traffic
+T11TT;DTT11C;dangerous / reckless driving (i.e.: driving in a way that falls far below what would be expected of a competent and careful driver and is obviously endangering life or health of another person or leads to the danger of serious damage to property)
+T11TT;DTT11E;seriously endangering road traffic in other ways (e.g. removing traffic signs, building obstacles, throwing objects onto the motorway)
+T11TT;DTT11G;driving under the influence of drugs or alcohol (also see below)
+T11TT;DTT11I;driving while impaired for other reasons
+T11TT;DTT11K;driving while disqualified or licence suspended / revoked
+T11TT;DTT11M;all other cases of driving without a valid licence
+T11TT;DTT11O;hit-and-run driving
+T11TT;DTT11Q;offences committed outside road traffic (e.g. involving trains, airplanes, ships or boats)
+T11TT;DTT11S;driving without an insurance against damage to third parties (motor liability insurance)
+T11TT;DTT11U;driving without paying motor vehicle tax
+T11TT;DTT11W;driving without or using wrong number plates
+T11TT;DTT11Y;driving a motor vehicle that is not roadworthy (if not considered dangerous driving)
+T11TT;DTT11AA;speeding (if not considered dangerous driving)
+T11TT;DTT11AC;failing to stop at a red traffic light, disregard of right of way, overtaking incorrectly and wrong-way driving (if not considered dangerous driving)
+T11TT;DTT11AE;parking violations
+T11TT;DTT11AG;all other traffic offences
+T11HO;DHO11A;assault leading to death
+T11HO;DHO11C;Euthanasia
+T11HO;DHO11E;Infanticide
+T11HO;DHO11G;Attempts
+T11HO;DHO11I;assistance with suicide
+T11HO;DHO11K;Abortion
+T11HO;DHO11M;negligent killing
+T11AS;DAS11A;minor bodily injury
+T11AS;DAS11C;aggravated bodily injury
+T11AS;DAS11E;bodily injury of a public servant/official
+T11AS;DAS11G;bodily injury in a domestic dispute
+T11AS;DAS11I;Attempts
+T11AS;DAS11K;assault leading to death
+T11AS;DAS11M;threats
+T11AS;DAS11O;assault only causing pain (e.g. slapping)
+T11AS;DAS11Q;sexual assault
+T11AS;DAS11S;negligent bodily injury
+T11AA;DAA11A;serious and lasting (i.e. disabling) bodily injury
+T11AA;DAA11C;life-threatening bodily injury
+T11AA;DAA11E;use of weapons (dangerous objects)
+T11AA;DAA11G;particularly vulnerable victim
+T11AA;DAA11I;attempts
+T11AA;DAA11K;assault leading to death
+T11AA;DAA11M;mere threats
+T11AA;DAA11O;sexual assault
+T11AA;DAA11Q;negligent bodily injury
+T11SA;DSA11A;any sexual acts committed with violence or threat of violence
+T11SA;DSA11C;any sexual acts committed with abuse of authority or undue pressure
+T11SA;DSA11E;any sexual acts committed against a helpless person
+T11SA;DSA11G;any sexual acts committed against a marital partner against her/his will
+T11SA;DSA11I;acts considered as rape (see below)
+T11SA;DSA11K;acts considered as physical sexual abuse of a child (see below)
+T11SA;DSA11M;Attempts
+T11SA;DSA11O;any verbal or any other form of non-physical molestation
+T11SA;DSA11Q;Pornography
+T11SA;DSA11S;Pimping
+T11SA;DSA11U;buying / offering paid sex
+T11SA;DSA11W;Exhibitionism
+T11RA;DRA11A;penetration other than vaginal (e.g. buggery)
+T11RA;DRA11C;violent intra-marital sexual intercourse
+T11RA;DRA11E;sexual intercourse without force with a helpless person
+T11RA;DRA11G;sexual intercourse with force with a child
+T11RA;DRA11I;Attempts
+T11RA;DRA11K;sexual intercourse with a child without force
+T11RA;DRA11OM;other forms of sexual assault
+T11SM;DSM11A;sexual intercourse or any other form of physical sexual contact committed without violence
+T11SM;DSM11C;acts committed by persons below the age of consent 
+T11SM;DSM11E;acts committed by persons above the age of consent 
+T11SM;DSM11G;Attempts
+T11SM;DSM11I;verbal or any other form of non-physical molestation
+T11SM;DSM11K;child pornography
+T11SM;DSM11M;acts considered as rape
+T11RO;DRO11A;muggings (bag-snatchings)
+T11RO;DRO11C;theft immediately followed by force or threat of force used to keep hold of the stolen goods
+T11RO;DRO11E;Attempts
+T11RO;DRO11G;pick-pocketing
+T11RO;DRO11I;Extortion
+T11RO;DRO11K;Blackmailing
+T11TH;DTH11A;minor (e.g. small value) theft
+T11TH;DTH11C;burglary
+T11TH;DTH11E;theft of motor vehicles
+T11TH;DTH11G;attempts
+T11TH;DTH11I;embezzlement (including theft by employees)
+T11TH;DTH11K;robbery
+T11TH;DTH11M;receiving/handling stolen goods
+T11TV;DTV11A;joyriding
+T11TV;DTV11C;theft of trucks / lorries
+T11TV;DTV11E;theft of motorcycles
+T11TV;DTV11G;theft of motorboats
+T11TV;DTV11I;attempts
+T11TV;DTV11K;robbery
+T11TV;DTV11M;receiving/handling a stolen vehicle
+T11BU;DBU11A;domestic burglary
+T11BU;DBU11C;theft from a factory, shop, office, etc.
+T11BU;DBU11E;theft from a military establishment
+T11BU;DBU11G;theft by using false keys
+T11BU;DBU11I;attempts
+T11BU;DBU11K;theft from a car
+T11BU;DBU11M;theft from a container
+T11BU;DBU11O;theft from a vending machine
+T11BU;DBU11Q;theft from a parking meter
+T11BU;DBU11S;theft from a fenced meadow/compound
+T11BD;DBD11A;theft from an attic or basement in a multi-dwelling building
+T11BD;DBD11C;theft from a secondary residence (even if unoccupied)
+T11BD;DBD11E;attempts
+T11BD;DBD11G;theft from a factory, shop, office, etc.
+T11BD;DBD11I;theft from a detached garage, shed, barn or stable
+T11BD;DBD11K;theft from a fenced meadow/compound
+T11FR;DFR11A;attempts
+T11FR;DFR11C;receiving/handling a stolen property
+T11FR;DFR11E;forgery of documents, passports etc.
+T11FR;DFR11G;tax and customs offences
+T11FR;DFR11I;subsidy fraud
+T11FR;DFR11K;fraud involving welfare payments
+T11FR;DFR11M;money laundering
+T11FR;DFR11O;forgery of money/payment instruments
+T11FR;DFR11Q;consuming goods or services
+T11FR;DFR11S;breaching of trust / embezzlement
+T11ML;DML11A;receiving and handling illegally obtained (but not stolen) non-monetary property
+T11ML;DML11C;attempts
+T11ML;DML11E;receiving/handling stolen property
+T11ML;DML11G;violations of the ‘know-your-customer’ rule (i.e. negligence in identification of customer’s identity or origin of funds)
+T11CO;DCO11A;active and passive corruption
+T11CO;DCO11C;instigation to corruption
+T11CO;DCO11E;complicity
+T11CO;DCO11G;corruption of domestic officials
+T11CO;DCO11I;corruption of foreign officials
+T11CO;DCO11K;extortion by public officials
+T11CO;DCO11M;offering officials advantages without immediate interest (i.e.: in order to get them hooked on receiving gifts)
+T11CO;DCO11O;attempts
+T11CO;DCO11Q;corruption in the private sector
+T11CO;DCO11S;extortion (except by public officials)
+T11CO;DCO11U;bribery of the electorate
+T11DR;DDR11A;cultivation
+T11DR;DDR11C;production and manufacture
+T11DR;DDR11E;extraction and preparation
+T11DR;DDR11G;offering and offering for sale
+T11DR;DDR11I;distribution
+T11DR;DDR11K;purchase
+T11DR;DDR11M;sale
+T11DR;DDR11O;delivery on any terms whatsoever
+T11DR;DDR11Q;brokerage
+T11DR;DDR11S;dispatch and dispatch in transit
+T11DR;DDR11U;transport
+T11DR;DDR11W;importation
+T11DR;DDR11Y;exportation
+T11DR;DDR11AA;financing of drug operations
+T11DR;DDR11AC;possession not in connection with personal use
+T11DR;DDR11AE;possession for personal use (i.e.: possession of small quantities)
+T11DR;DDR11AG;consumption
+T11DR;DDR11AI;attempts
+T11DR;DDR11AK;offences with respect to precursor substances
+T11DT;DDT11A;cultivation
+T11DT;DDT11C;production and manufacture
+T11DT;DDT11E;extraction and preparation
+T11DT;DDT1AG;offering and offering for sale
+T11DT;DDT11I;distribution
+T11DT;DDT11K;purchase
+T11DT;DDT11M;sale
+T11DT;DDT11O;delivery on any terms whatsoever
+T11DT;DDT11Q;brokerage
+T11DT;DDT11S;dispatch and dispatch in transit
+T11DT;DDT11U;transport
+T11DT;DDT11W;importation
+T11DT;DDT11Y;exportation
+T11DT;DDT11AA;financing of drug operations
+T11DT;DDT11AC;possession
+T11DT;DDT11AE;attempts
+T11DT;DDT11AG;offences with respect to precursor substances
+T11DT;DDT11AI;possession for personal use (i.e.: possession of small quantities)
+T11DT;DDT11AK;consumption
+THOFA;DFAI11A;firearm shot
+THOFA;DFAI11C;firearm used as a blunt weapon
+THOFA;DFAI11E;firearm used as a threat
+THOFA;DFAI11G;firearm carried
+THOFA;DFAI11I;firearm ready to hand, even if not carried (e.g.: lying readily available on a table directly at the crime scene)
+THOFA;DFAI11K;offences involving weapons not considered as firearms (see separate definition below)
+THOFA;DFAI11M;offences involving other dangerous object

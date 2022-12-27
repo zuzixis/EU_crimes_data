@@ -1,22 +1,18 @@
-﻿id;nazovEN;podkategoria;description
+﻿CRIMINAL_OFFENCE_CODE;NAME;PARENT_CODE;DEFINITION
 T11TC;Criminal offences total;;all offences subject to criminal proceedings
 T11TT;Major traffic offences;;severe road traffic offences
 T11HO;Intentional homicide - Total;T11TC;intentional killing of a person
-THOFA;Intentional homicide - Firearm;T11HO;"intentional homicide where a firearm has been involved in committing the crime, regardless of
-whether it has been shot, used as a blunt weapon or threat, or just been carried or in any
-other way been ready to hand"
+THOFA;Intentional homicide - Firearm;T11HO;intentional homicide where a firearm has been involved in committing the crime, regardless of whether it has been shot, used as a blunt weapon or threat, or just been carried or in any other way been ready to hand
 T11AS;Bodily injury;T11TC;whether it has been shot, used as a blunt weapon or threat, or just been carried or in any
 T11AA;Aggravated bodily injury;T11AS;other way been ready to hand
 T11SA;Sexual assault ;T11TC;sexual contact with a person against her/his will or with a person who cannot validly consent to sexual acts
 T11RA;Rape;T11SA;sexual intercourse with a person against her/his will (per vaginam or other)
 T11SM;Sexual abuse of a child;T11SA;sexual intercourse or any other form of physical sexual contact with a person below the age of consent
 T11RO;Robbery;T11TC;stealing from a person with force or threat of force
-TROFA;Robbery - Firearm involved;T11RO;"robbery where where a firearm has been involved in committing the crime, regardless of
-whether it has been shot, used as a blunt weapon or threat, or just been carried or in any
-other way been ready to hand"
+TROFA;Robbery - Firearm involved;T11RO;robbery where where a firearm has been involved in committing the crime, regardless of whether it has been shot, used as a blunt weapon or threat, or just been carried or in any other way been ready to hand
 T11TH;Theft;T11TC;whether it has been shot, used as a blunt weapon or threat, or just been carried or in any
-T11TV;Theft of a motor vehicle;T11TA;other way been ready to hand
-T11BU;Burglary;T11TA;gaining access to a closed part of a building or other premises (e.g. by use of force against an object) with the objective to steal goods
+T11TV;Theft of a motor vehicle;T11TH;other way been ready to hand
+T11BU;Burglary;T11TH;gaining access to a closed part of a building or other premises (e.g. by use of force against an object) with the objective to steal goods
 T11BD;Domestic burglary;T11BU;gaining access to closed private premises (e.g. by use of force against an object) with the objective to steal goods
 T11FR;Fraud;T11TC;deceiving someone or taking advantage of someone’s error with the intent to unlawfully gain financial benefits, thereby causing the deceived person to enter any operation that will be damaging to his/her or a third person’s financial interests
 T11ML;Money laundering;T11TC;specific financial transactions to conceal the identity, source, and/or destination of money or non-monetary property deriving from criminal activities

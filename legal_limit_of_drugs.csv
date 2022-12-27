@@ -1,4 +1,4 @@
-﻿state_id;drog_id;allowed_limit
+﻿state_id;drug_id;allowed_limit
 11;1;15
 11;2;1,5
 11;3;1
